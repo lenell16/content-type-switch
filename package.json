@@ -1,0 +1,14 @@
+{
+  "name": "content-type-switch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "got": "lenell16/got",
+    "mime": "^2.3.1"
+  }
+}
